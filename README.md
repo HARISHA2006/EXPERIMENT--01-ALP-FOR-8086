@@ -130,7 +130,6 @@ ret
 ```
 
 ## Output  
-
 ![Screenshot 2025-03-03 144657](https://github.com/user-attachments/assets/f156f5f8-a29a-4246-9886-575530bbb4f6)
 
 
